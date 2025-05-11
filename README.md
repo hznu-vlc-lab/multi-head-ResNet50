@@ -36,3 +36,4 @@ The dataset consists of 144 measurement locations acquired randomly in an area o
 The data is in .jpg farmat  and stored in a .zip archive.  You can extract the data by unzipping the archive.
 Features:
 loc_pic_data.zip #shape[144, 3]-->[144, x, y, θ]
+The complete dataset used in this work is publicly available on [Kaggle: HZNU-VLC-Lab Datasets](https://www.kaggle.com/datasets/qyq123/hznu-vlc-lab-datasets1).
